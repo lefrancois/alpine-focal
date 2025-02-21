@@ -5,7 +5,6 @@ Add focal point alignment of images to your Alpine 3.x components with a custom 
 ![GitHub](https://img.shields.io/github/license/lefrancois/alpine-focal?color=red&style=flat-square)
 ![Build size Brotli](https://img.badgesize.io/lefrancois/alpine-focal/master/dist/cdn.min.js.svg?compression=gzip&style=flat-square&color=green)
 [![](https://data.jsdelivr.com/v1/package/npm/@lefrancois/alpine-focal/badge)](https://www.jsdelivr.com/package/npm/@lefrancois/alpine-focal)
-[![](https://img.shields.io/discord/492260310414262274.svg?color=7289da&label=lefrancois&logo=discord&style=flat-square)](https://discord.gg/fnBQBdVdSZ)
 [![](https://img.shields.io/twitter/follow/lefrancois?style=flat-square)](https://www.twitter.com/lefrancois)
 
 > This package only supports Alpine v3.x.
